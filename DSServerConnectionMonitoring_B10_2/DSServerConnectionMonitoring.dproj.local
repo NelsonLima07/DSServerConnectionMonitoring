@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/05/30 18:53:38.000.533,=rtl.dcp</Transaction>
+    <Transaction>2016/05/30 18:53:54.000.760,=C:\Componentes\DSServerConnectionMonitoring_B10_1\Datasnap.ServerConnectionMonitoringReg.pas</Transaction>
+    <Transaction>2016/05/30 18:53:54.000.758,=C:\Componentes\DSServerConnectionMonitoring_B10_1\Datasnap.ServerConnectionMonitoring.pas</Transaction>
+    <Transaction>2016/05/30 18:54:20.000.718,C:\Users\jose.esmeraldo\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Componentes\DSServerConnectionMonitoring_B10_1\DSServerConnectionMonitoring.dproj</Transaction>
+    <Transaction>2016/05/30 18:58:13.000.396,=CustomIPTransport.dcp</Transaction>
+    <Transaction>2016/05/30 18:58:13.000.406,=inet.dcp</Transaction>
+    <Transaction>2016/05/30 18:58:13.000.356,=DbxCommonDriver.dcp</Transaction>
+    <Transaction>2016/05/30 18:58:13.000.366,=dbrtl.dcp</Transaction>
+    <Transaction>2016/05/30 18:58:13.000.387,=DbxClientDriver.dcp</Transaction>
+    <Transaction>2016/05/30 18:58:13.000.426,=DataSnapIndy10ServerTransport.dcp</Transaction>
+    <Transaction>2016/05/30 18:58:13.000.377,=DataSnapCommon.dcp</Transaction>
+    <Transaction>2016/05/30 18:58:13.000.416,=DataSnapServer.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
